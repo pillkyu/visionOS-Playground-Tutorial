@@ -1,0 +1,71 @@
+# Xcode
+#
+# gitignore contributors: add more if needed
+
+## Build results
+build/
+DerivedData/
+
+## ResultBundle
+*.result
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+## Xcode 8 folders
+*.icloud
+
+# Swift Package Manager
+#
+# Add this line if you want to avoid checking in source code from Swift packages.
+# .build/
+# Packages/
+# Package.pins
+# Package.resolved
+# .swiftpm/xcode
+
+# Packages/ RealityKitContent often has .swiftpm inside
+**/.swiftpm/xcode/xcuserdata/
+
+# macOS
+#
+# gitignore contributors: add more if needed
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network\ Trash\ Folder
+Temporary\ Items
+.apdisk
