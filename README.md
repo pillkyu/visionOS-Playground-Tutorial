@@ -32,17 +32,19 @@ visionOS-Playground-Tutorials/
 │       └── README.md
 │
 ├── Chapter2/
-│   └── ...
+│   └── LabelMaker/
+│       ├── [Project Files]
+│       └── README.md
 │
 ├── Chapter3/
-│   └── ...
+│   └── to be continued...
 │
 └── README.md
 ```
 
-각 항목은 이후 추가될 예정입니다!
+**챕터 2 완료**
 
 ---
 
 **작성자: 레미(Remi)**
-**작성일: 2026.05.10**
+**최근 업데이트: 2026.05.12**
