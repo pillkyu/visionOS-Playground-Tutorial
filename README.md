@@ -37,14 +37,15 @@ visionOS-Playground-Tutorials/
 │       └── README.md
 │
 ├── Chapter3/
-│   └── to be continued...
-│
+│   └── SeaCreature/
+│       ├── [Project Files]
+│       └── README.md
 └── README.md
 ```
 
-**챕터 2 완료**
+**챕터 3 완료**
 
 ---
 
 **작성자: 레미(Remi)**
-**최근 업데이트: 2026.05.12**
+**최근 업데이트: 2026.05.28**
