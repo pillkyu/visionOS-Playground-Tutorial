@@ -1,0 +1,25 @@
+{
+  "pathsToIds" : {
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/ClamScene.usda" : "49D24276-F85F-4B53-84F9-71362E148477",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/FishScene.usda" : "E3D7F99C-0095-46E2-B251-DEC407972127",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "440DE5B4-E4E4-459B-AABF-9ACE96319272",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/SlugScene.usda" : "1F8220A7-1BB2-4DAE-A9C5-79E154EA08E2",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/StarfishScene.usda" : "F586A37F-7B17-479D-97C0-D570BDBDACEF",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "03E02005-EFA6-48D6-8A76-05B2822A74E9",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "34C460AE-CA1B-4348-BD05-621ACBDFFE97",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/ClamScene.usda" : "85FB2C19-9494-484F-9A70-9E2E3C9DD9FB",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "FBD8436F-6B8B-4B82-99B5-995D538B4704",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "26DBAE76-5DD8-47B6-A085-1B4ADA111097",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/procedural_sphere_grid.usda" : "1CBF3893-ABFD-408C-8B91-045BFD257808"
+  },
+  "projectID" : -5520762206508747637,
+  "uuidToIntID" : {
+    "1F8220A7-1BB2-4DAE-A9C5-79E154EA08E2" : 5043217210339219154,
+    "26DBAE76-5DD8-47B6-A085-1B4ADA111097" : -5671161169499598511,
+    "49D24276-F85F-4B53-84F9-71362E148477" : 7584982013527808656,
+    "85FB2C19-9494-484F-9A70-9E2E3C9DD9FB" : -2892108816401152166,
+    "E3D7F99C-0095-46E2-B251-DEC407972127" : -3246839466308306856,
+    "F586A37F-7B17-479D-97C0-D570BDBDACEF" : 2621054458047409955
+  }
+}
